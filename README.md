@@ -26,6 +26,7 @@ A more advanced toolset for Blender's Quadriflow retopology tool, designed for c
 
 ## Notes
 
+- This tool is NOT intended or recommended for characters that are meant to be animated.
 - Best results are seen when working from a somewhat clean sculpt.
 - Always run `Repair Non-Manifold Geometry` before using the Retopology section of this tool.
 - A messy sculpt or model may produce an error. If this occurs, use a voxel remesh modifier, then follow all steps mentioned above.
