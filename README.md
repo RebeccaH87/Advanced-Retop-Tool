@@ -13,7 +13,7 @@ A more advanced toolset for Blender's Quadriflow retopology tool, designed for c
 
 ## Use
 
-1. Select any mesh object containing ngons.
+1. Select any mesh object.
 2. Open the 3D View sidebar with `N`.
 3. Open the `Retopology` tab.
 4. Click `Preview Ngons` if you want the add-on to select the primary faces it will target if the poly count reduction is disabled.
